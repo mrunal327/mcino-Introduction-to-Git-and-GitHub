@@ -1,1 +1,1 @@
-Bug fix typo 
+Revert bug fix 
